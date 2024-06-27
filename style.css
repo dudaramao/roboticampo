@@ -1,17 +1,23 @@
+footer{
+    --color--:#1C6434;
+  --texto--:#ffffff;
+    
+}
 #{
     margin: 0%;
     padding: 0%;
 }
 
 header{ 
-    background-color:#1C6434;
-    display:flex;
+    background-color: var(--color--);
+    display:flex; 
+    ;
 }
 
 section {
     display: flex;
-    background-color: white;
-    color: #1C6434;
+    background-color: var(--texto--);
+    color: var(--color--);
     margin: 10px 0;
     padding: 10px 20px;
     width: 400px;
