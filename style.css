@@ -10,8 +10,7 @@ footer{
 
 header{ 
     background-color: var(--color--);
-    display:flex; 
-    color: var(--texto--);
+    display:flex; k
 }
 
 section {
