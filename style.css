@@ -11,7 +11,7 @@ footer{
 header{ 
     background-color: var(--texto--);
     display:flex; 
-    color: #1C6434;
+    color: var(--color--);
 }
 
 section {
