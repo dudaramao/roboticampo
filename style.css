@@ -12,10 +12,13 @@ section {
     display: flex;
     background-color: white;
     color: #1C6434;
+    margin: 10px 0;
+    padding: 10px 20px;
     width: 400px;
 }
 
 div{
     padding: 30px;
 }
+
 
