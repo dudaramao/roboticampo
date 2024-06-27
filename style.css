@@ -1,5 +1,5 @@
 footer{
---color--: #1C6434;
+    --color--:#1C6434;
   --texto--:#ffffff;
     
 }
@@ -9,9 +9,8 @@ footer{
 }
 
 header{ 
-    background-color: var(--texto--);
+    background-color: var(--color--);
     display:flex; 
-    color: var(--color--);
 }
 
 section {
