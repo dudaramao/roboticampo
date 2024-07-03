@@ -11,7 +11,7 @@ header{
     background-color:#1C6434;
     display:flex; 
     color: white;
-
+    justify-content: center;
 }
 
 section {
